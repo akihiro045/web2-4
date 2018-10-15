@@ -59,3 +59,12 @@ dt{
 .btn-reset{
   background-color: lightblue;
 }
+
+#ingredient{
+  border: 2px solid lightcoral;
+  border-collapse: collapse;
+}
+
+th,td{
+  border: 1px solid lightcoral;
+}
